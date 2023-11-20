@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#Branding{
+   
+    background-color: grey;
+    height: 80px;
+    width: 850px;
+    padding: 0 10px;    
+    font-family: sans-serif;
+    color: rgb(26, 24, 24);
+    margin-top: 10px;
+   
+    
+}
+ul{
+   background-color: rgb(190, 189, 189); 
+   padding: 0 10px;
+   width: 110px;
+   height: 130px;
+   color: white; 
+   margin-bottom: 150px;
+
+
+}
+#lorem{
+    margin-top: -265px;
+    margin-left: 150px;
+}
+#textou{
+    margin-top: 8px;
+    margin-left: 152px;
+    font-size: 15px;
+}
+#ea{
+    margin-top: -4px;
+    margin-left: 150px;
+}
+#textod{
+    margin-left: 152px;
+    font-size: 15px;
+}
+#magna{
+    margin-left: 499px;
+    margin-top: -450px;
+    background-color: rgb(170, 170, 192);
+}
+#textot{
+    margin-left: 500px;
+    font-size: small;
+}
+
+#textot {
+    background-color: rgb(170, 170, 192);
+}
